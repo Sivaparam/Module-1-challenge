@@ -12,3 +12,10 @@
 * Replaced Div element with benefitis class to section element
         * replaced all div element (within content benefits) to aside element 
 * Added Alt attributies to all IMG tag
+
+
+* Add comments for stylesheet 
+
+* Fixed link function for search engine optimization 
+
+* Consolidation of style sheet
