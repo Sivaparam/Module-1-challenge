@@ -19,3 +19,5 @@
 * Fixed link function for search engine optimization 
 
 * Consolidation of style sheet
+
+* Github URL: https://github.com/Sivaparam/Module-1-challenge
